@@ -1,4 +1,4 @@
-# 👋 Anand Vadukul
+<h1 align="center">👋 Anand Vadukul</h1>
 
 ## 🛠️ Technical Skills
 
