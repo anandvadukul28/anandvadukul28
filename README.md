@@ -1,4 +1,11 @@
-<h1 align="center">👋 Anand Vadukul</h1>
+<h1 align="center"> Anand Vadukul</h1>
+<p align="center">
+  💻 Full-Stack Developer
+</p>
+<p align="center">
+ 👋 Hi there! I'm Anand Vadukul, a dedicated full-stack engineer passionate about crafting exceptional web experiences. With expertise in React and the MERN (MongoDB, Express.js, React,      Node.js) stack, complemented by AWS services, I specialize in building scalable, user-centric applications that drive business growth.
+
+</p>
 
 <h2 align="center">🛠️ Technical Skills</h2>
 
